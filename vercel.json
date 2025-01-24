@@ -8,11 +8,11 @@
             "dest": "/index.html"
         },
         {
-            "src": "/(.*)",
+            "src": "/demo-1(.*)",
             "dest": "/demo-1.html"
         },
         {
-            "src": "/(.*)",
+            "src": "/demo-2(.*)",
             "dest": "/demo-2.html"
         }
     ]
